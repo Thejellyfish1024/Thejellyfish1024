@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Rahim
 
+##### Frontend Developer
+
 ## Overview 👋
 
 - 🌱 I’m currently learning Next JS & Node JS

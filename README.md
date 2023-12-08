@@ -13,7 +13,9 @@ Hi, I’m Rahim, my core skill is based on react and javascript and I like to ma
 - 🤔 I’m looking for help with backend development
 - ⚡ Fun fact: I like sports and traveling
 
+# 💻 Tech Stack:
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=5)](https://skillicons.dev)
 
 # Github Stats
 

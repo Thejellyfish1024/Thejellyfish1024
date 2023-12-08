@@ -15,7 +15,7 @@ Hi, I’m Rahim, my core skill is based on react and javascript and I like to ma
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,gcp,azure,react,vue,flutter&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,tailwind,css,react,js,github,firebase,figma,mongodb,nodejs,express,vscode,vite,materialui&perline=5)](https://skillicons.dev)
 
 # Github Stats
 

@@ -18,3 +18,5 @@ Hi, I’m Rahim, my core skill is based on react and javascript and I like to ma
 # Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thejellyfish1024&theme=dark)](https://git.io/streak-stats)
+
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}

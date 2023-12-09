@@ -8,6 +8,13 @@
 
 Hi, I’m Rahim, my core skill is based on react and javascript and I like to make wonderful websites with react Js and javascript. I am skilled At MERN Stack. I like problem solving and i want to become a next level problem solver in upcoming years. I also like to learn new technologies and currently im learning Next JS.
 
+
+# Connect with me🤝:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Thejellyfish1024)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/md-rahim-6265342a3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/dilwale.devil.18?mibextid=hIlR13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/t_h_e_jellyfish_/?igshid=OGQ5ZDc2ODk2ZA%3D%3D/)  
+
+
+
 # Overview 👋
 
 - 🌱 I’m currently learning Next JS & Node JS

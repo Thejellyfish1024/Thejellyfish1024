@@ -43,4 +43,7 @@ Hi, I’m Rahim, my core skill is based on react and javascript and I like to ma
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thejellyfish1024&theme=merko)](https://git.io/streak-stats)
 
+<p align="center"  width="100%">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Thejellyfish1024&theme=merko" />
+</p>
 

@@ -30,22 +30,22 @@ Hi, I’m Rahim, my core skill is based on react and javascript and I like to ma
 
 # Github Stats
 
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thejellyfish1024)   -->
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thejellyfish1024)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thejellyfish1024)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thejellyfish1024)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thejellyfish1024&show_icons=true)   -->
 
-## GitHub stats
+<div align="center">
+    <!-- <p align="center"  width="100%"> -->
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thejellyfish1024)](https://github.com/anuraghazra/github-readme-stats" />
+    <!-- </p> -->
+    <!-- <p align="center"  width="100%"> -->
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Thejellyfish1024&show_icons=true" />
+    <!-- </p> -->
+</div>
 
-<p align="center"  width="100%">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Thejellyfish1024&show_icons=true" />
-</p>
-
-## Current Stats
+# Current Stats
 
 <p align="center"  width="100%">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Thejellyfish1024&theme=merko" />

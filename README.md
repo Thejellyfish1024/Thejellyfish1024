@@ -28,13 +28,13 @@ Hi, I’m Rahim, my core skill is based on react and javascript and I like to ma
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,tailwind,css,react,js,github,firebase,figma,mongodb,nodejs,express,vscode,vite,materialui&perline=8)](https://skillicons.dev) -->
 <p align="center"  width="100%">
-  <img width="100%" src="https://skillicons.dev/icons?i=html,tailwind,css,react,js,github,firebase,figma,mongodb,nodejs,express,vscode,vite,materialui&perline=8" />
+  <img width="80%" src="https://skillicons.dev/icons?i=html,tailwind,css,react,js,github,firebase,figma,mongodb,nodejs,express,vscode,vite,materialui&perline=8" />
 </p>
 
 # Current Stats
 
 <p align="center"  width="100%">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Thejellyfish1024&theme=merko" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=Thejellyfish1024&theme=merko" />
 </p>
 
 # Github Stats
@@ -46,8 +46,8 @@ Hi, I’m Rahim, my core skill is based on react and javascript and I like to ma
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thejellyfish1024&show_icons=true)   -->
 
 <div align="center">
-    <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thejellyfish1024" />
-    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Thejellyfish1024&show_icons=true" />
+    <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thejellyfish1024" />
+    <img width="80%" src="https://github-readme-stats.vercel.app/api?username=Thejellyfish1024&show_icons=true" />
 </div>
 
 

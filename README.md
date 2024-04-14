@@ -26,7 +26,16 @@ Hi, I’m Rahim, my core skill is based on react and javascript and I like to ma
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,tailwind,css,react,js,github,firebase,figma,mongodb,nodejs,express,vscode,vite,materialui&perline=8)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=html,tailwind,css,react,js,github,firebase,figma,mongodb,nodejs,express,vscode,vite,materialui&perline=8)](https://skillicons.dev) -->
+<p align="center"  width="100%">
+  <img width="100%" src="https://skillicons.dev/icons?i=html,tailwind,css,react,js,github,firebase,figma,mongodb,nodejs,express,vscode,vite,materialui&perline=8" />
+</p>
+
+# Current Stats
+
+<p align="center"  width="100%">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Thejellyfish1024&theme=merko" />
+</p>
 
 # Github Stats
 
@@ -41,9 +50,5 @@ Hi, I’m Rahim, my core skill is based on react and javascript and I like to ma
     <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Thejellyfish1024&show_icons=true" />
 </div>
 
-# Current Stats
 
-<p align="center"  width="100%">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Thejellyfish1024&theme=merko" />
-</p>
 

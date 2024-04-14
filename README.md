@@ -38,7 +38,7 @@ Hi, I’m Rahim, my core skill is based on react and javascript and I like to ma
 
 <div align="center">
     <!-- <p align="center"  width="100%"> -->
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thejellyfish1024)](https://github.com/anuraghazra/github-readme-stats" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thejellyfish1024" />
     <!-- </p> -->
     <!-- <p align="center"  width="100%"> -->
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Thejellyfish1024&show_icons=true" />

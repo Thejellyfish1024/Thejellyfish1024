@@ -37,9 +37,13 @@ Hi, I’m Rahim, my core skill is based on react and javascript and I like to ma
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thejellyfish1024)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thejellyfish1024&show_icons=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thejellyfish1024&show_icons=true)   -->
 
+## GitHub stats
 
+<p align="center"  width="100%">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Thejellyfish1024&show_icons=true" />
+</p>
 
 ## Current Stats
 

@@ -19,7 +19,7 @@ Hi, I’m Rahim, my core skill is based on react and javascript and I like to ma
 
 # Overview 👋
 
-- 🌱 I’m currently learning socket io & Node JS
+- 🌱 I’m currently learning Redux & Node JS
 - 👯 I’m looking to collaborate on frontend development
 - 🤔 I’m also looking to help with backend development
 - ⚡ Fun fact: I like sports and traveling

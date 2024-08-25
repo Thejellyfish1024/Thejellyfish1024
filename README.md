@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I am Rahim
 
-#### Frontend Developer
+#### FullStack Developer
 
 
 

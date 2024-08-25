@@ -1,4 +1,4 @@
-![[https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg](https://i.ibb.co/27w2wHJ/rahim-banner.png)]([https://i.ibb.co/CVzNd55/Navy-Modern-Software-Development-Business-Linked-In-Banner.png](https://i.ibb.co/27w2wHJ/rahim-banner.png) "MD. Rahim")
+![[https://i.ibb.co/27w2wHJ/rahim-banner.png](https://i.ibb.co/27w2wHJ/rahim-banner.png)]([https://i.ibb.co/CVzNd55/Navy-Modern-Software-Development-Business-Linked-In-Banner.png](https://i.ibb.co/27w2wHJ/rahim-banner.png) "MD. Rahim")
 
 ### Hi there 👋 I am Rahim
 

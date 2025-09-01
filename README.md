@@ -8,7 +8,6 @@
 
 # 💫 About Me:
 
-Hi, I’m Rahim ||
 FullStack | Backend | Problem Solver | Learner
 
 

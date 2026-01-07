@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-FullStack | Backend | Problem Solver | Learner
+Full-Stack | Backend | Blockchain | Problem Solver | Learner
 
 
 # Connect with me🤝:
